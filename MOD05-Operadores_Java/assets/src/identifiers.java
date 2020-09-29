@@ -1,0 +1,12 @@
+contador
+Acum
+dolares_01
+arroba
+happyFace
+contador inicial
+1
+a
+_
+01_dolares
+char
+TodayIsAVeryHappyDayInMyLifeAllIWantToDoIsDance
