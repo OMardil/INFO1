@@ -26,8 +26,6 @@ public class ProblemaQuiz {
     billetes50 = dineroMartha/50;
     monedasRestantes = dineroMartha%50;    
 
-
-
     System.out.println(billetes500 + "x500");
     System.out.println(billetes200 + "x200");
     System.out.println(billetes100 + "x100");        
